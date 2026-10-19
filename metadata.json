@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI - منصة الذكاء الاصطناعي الموحدة",
+  "description": "منصة شاملة تجمع أدوات ونماذج الذكاء الاصطناعي المجانية في بيئة عمل واحدة مع ميزة الترحيل الذكي بين النماذج وإدارة الإصدارات ومكتبة سحابية وتزامن لحظي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
